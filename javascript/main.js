@@ -66288,11 +66288,11 @@ const vie = e => {
         display: "fullscreen",
         icons: [{
             sizes: "192x192",
-            src: "https://npm.elemecdn.com/@lobehub/assets-favicons/assets/android-chrome-192x192.png",
+            src: "https://raw.githubusercontent.com/AuthorSultra/Aset-file/main/icon/192x192.png",
             type: "image/png"
         }, {
             sizes: "512x512",
-            src: "https://npm.elemecdn.com/@lobehub/assets-favicons/assets/android-chrome-512x512.png",
+            src: "https://raw.githubusercontent.com/AuthorSultra/Aset-file/main/icon/512x512.png",
             type: "image/png"
         }],
         name: "Stable Diffusion",
@@ -66322,16 +66322,16 @@ const vie = e => {
             fallback: "loading...",
             children: [Jv.jsxs(bS, {
                 children: [Jv.jsx("link", {
-                    href: "https://npm.elemecdn.com/@lobehub/assets-favicons/assets/apple-touch-icon.png",
+                    href: "https://raw.githubusercontent.com/AuthorSultra/Aset-file/main/icon/180x180.png",
                     rel: "apple-touch-icon",
                     sizes: "180x180"
                 }), Jv.jsx("link", {
-                    href: "https://npm.elemecdn.com/@lobehub/assets-favicons/assets/favicon-32x32.png",
+                    href: "https://raw.githubusercontent.com/AuthorSultra/Aset-file/main/icon/32x32.png",
                     rel: "icon",
                     sizes: "32x32",
                     type: "image/png"
                 }), Jv.jsx("link", {
-                    href: "https://npm.elemecdn.com/@lobehub/assets-favicons/assets/favicon-16x16.png",
+                    href: "https://raw.githubusercontent.com/AuthorSultra/Aset-file/main/icon/16x16.png",
                     rel: "icon",
                     sizes: "16x16",
                     type: "image/png"
@@ -66340,7 +66340,7 @@ const vie = e => {
                     rel: "manifest"
                 }), Jv.jsx("link", {
                     color: "#000000",
-                    href: "https://npm.elemecdn.com/@lobehub/assets-favicons/assets/safari-pinned-tab.svg",
+                    href: "https://raw.githubusercontent.com/AuthorSultra/Aset-file/main/icon/SVG.svg",
                     rel: "mask-icon"
                 }), Jv.jsx("meta", {
                     content: "LobeHub",
